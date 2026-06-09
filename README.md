@@ -39,9 +39,3 @@ The drone carries a custom-engineered payload board that handles incoming teleme
 * `/Firmware/Receiver/` - Source code for the drone payload, hit detection, and PPM encoding.
 * `/Hardware/` - KiCad project files, PCB schematics, and board layouts.
 * `/Image/` - Project photos and hardware showcases.
-
-## 💻 How to Build & Flash
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/UAV-Laser-Combat-System.git](https://github.com/yourusername/UAV-Laser-Combat-System.git)
